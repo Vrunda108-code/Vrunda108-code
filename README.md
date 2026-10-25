@@ -34,5 +34,5 @@ I bridge the gap between rigorous software engineering and smart machine learnin
 </p>
 
 ### 📫 Let's Connect & Collaborate!
-- **💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **💼 LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vrunda-patel-46517835a/)
 - **📧 Email:** patelvrunda4545@gmail.com
