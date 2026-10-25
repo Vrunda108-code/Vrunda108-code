@@ -29,9 +29,8 @@ I bridge the gap between rigorous software engineering and smart machine learnin
 ---
 
 ### 📊 Engineering Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Vrunda's Engineering Metrics" />
-</p>
+- 💻 **Active Projects:** Currently building out initial software architectures and startup MVPs.
+- 📈 **Tracking:** Open-source analytics will populate here as development repositories scale!
 
 ### 📫 Let's Connect & Collaborate!
 - **💼 LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vrunda-patel-46517835a/)
